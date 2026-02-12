@@ -316,7 +316,7 @@ openpyxl==3.1.2
 
 ## 📧 Contact Information
 
-**Student Name**: S M  
+**Student Name**: MOHIT RAJ  
 **Course**: M.Tech (AIML/DSE)  
 **Institution**: BITS Pilani  
 **Assignment**: Machine Learning - Assignment 2  
