@@ -19,8 +19,8 @@ import os
 
 # Page configuration
 st.set_page_config(
-    page_title="ML Classification Hub",
-    page_icon="🤖",
+    page_title="ML Classification Assignment",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -375,7 +375,7 @@ load_css()
 # Custom Header
 st.markdown("""
     <div class="custom-header fade-in">
-        <h1>ML Classification Hub</h1>
+        <h1>ML Classification</h1>
         <p>Advanced Machine Learning Models Comparison & Analysis Platform</p>
         <p style="font-size: 0.9rem; opacity: 0.85; margin-top: 0.5rem;">
             BITS Pilani M.Tech (AIML/DSE) | Assignment 2 | BITS ID: 2025AA05168
@@ -388,7 +388,6 @@ with st.sidebar:
     # Logo/Icon section
     st.markdown("""
         <div style="text-align: center; padding: 1rem 0 2rem 0;">
-            <h2 style="margin: 0.5rem 0 0 0; font-size: 1.5rem;">ML Hub</h2>
             <p style="color: #6b7280; font-size: 0.875rem; margin: 0.25rem 0 0 0;">
                 Classification Analysis
             </p>
