@@ -829,9 +829,7 @@ if page == "Home":
                 <h4 style="margin-top: 0;">💡 Sample Datasets Included</h4>
                 <ul style="margin-bottom: 0;">
                     <li><strong>1_wine_quality_full.csv</strong> - 1599 samples ⭐</li>
-                    <li><strong>2_small_test.csv</strong> - Quick test (200 samples)</li>
-                    <li><strong>3_large_test.csv</strong> - 1000 samples</li>
-                    <li>More test files available in project folder</li>
+                    <li><strong>1_wine_quality_full_PREDICTION.csv</strong></li>
                 </ul>
             </div>
         """, unsafe_allow_html=True)
